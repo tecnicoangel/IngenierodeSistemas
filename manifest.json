@@ -1,0 +1,21 @@
+{
+  "short_name": "TécnicoÁngel",
+  "name": "TécnicoÁngel - Servicios y Productos",
+  "icons": [
+    {
+      "src": "imgA/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "imgA/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "display": "standalone",
+  "orientation": "portrait"
+}
